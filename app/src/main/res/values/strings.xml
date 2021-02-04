@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tutorial 05</string>
+    <string name="radio_female">female</string>
+    <string name="radio_male">male</string>
+    <string name="textview">textview</string>
+    <string-array name="city">
+        <item>Select City</item>
+        <item>Rajkot</item>
+        <item>Jamnagar</item>
+        <item>Morbi</item>
+        <item>Surat</item>
+        <item>Ahmdabad</item>
+        <item>Vadodra</item>
+        <item>Porbandar</item>
+    </string-array>
+</resources>
